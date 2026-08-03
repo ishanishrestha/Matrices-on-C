@@ -6,6 +6,7 @@ Matrices are described as m x n, where *m* is the number of rows and *n* is the 
 
 Two or more matrices of the same size can be added or subtracted by combining their matching entries. Two matrices can also be multiplied together by matching the columns of the first matrix to the rows of the second matrix. 
 
+<br>
 
 **Formation of a 2x3 matrix**
 
