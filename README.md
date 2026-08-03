@@ -12,7 +12,8 @@ Two or more matrices of the same size can be added or subtracted by combining th
 
 C program to build a matrix of order 2x3 where the user can input any number as its elements and they are displayed in the form of a matrix is displayed below.
 
-https://www.programiz.com/online-compiler/8S59Cre9V6i1H
+https://www.programiz.com/online-compiler/6ysw0KgDOdLA8
 
-<img width="1297" height="674" alt="image" src="https://github.com/user-attachments/assets/47c4def3-6706-4ad0-a6ae-8c8e755bd01d" />
+<img width="1333" height="683" alt="image" src="https://github.com/user-attachments/assets/b55d3a9f-037f-42a6-a89f-314581f26357" />
+
 
