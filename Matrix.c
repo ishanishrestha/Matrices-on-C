@@ -2,7 +2,7 @@
 int main()
 {
      int i,j,a[2][3];
-     printf ("Matrix \n");
+     printf ("Matrix: \n\n");
      for (i=0;i<2;i++)
      {
          for (j=0;j<3;j++)
@@ -10,7 +10,9 @@ int main()
              printf("Enter row %d and column %d element: ", i+1, j+1);
              scanf("%d",&a[i][j]);
              }
-             }
+        }
+        printf ("\nThe matrix is:");
+        printf ("\n");
      for (i=0;i<2;i++)
      {
          for (j=0;j<3;j++)
@@ -18,6 +20,6 @@ int main()
          printf("%d\t",a[i][j]);
          }
          printf("\n");
-         }
+        }
      return 0;
 }
