@@ -10,7 +10,7 @@ int main()
              printf("Enter row %d and column %d element: ", i+1, j+1);
              while (scanf("%d", &a[i][j]) != 1) 
              {
-                 printf("Invalid! Only numbers are acccepted! Enter a number: ");
+                 printf("Invalid! Only numbers are accepted! Enter a number: ");
                  scanf("%*s");
              }
              }
